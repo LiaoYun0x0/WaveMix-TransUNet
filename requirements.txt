@@ -1,0 +1,5 @@
+albumentations>=2.0
+numpy>=1.23
+opencv-python-headless>=4.8
+scikit-image>=0.20
+tqdm>=4.60
